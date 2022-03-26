@@ -73,7 +73,7 @@ body {
 }
 .user-info ul li strong {
    font-size: 0.9rem;
-   margin-left: 0.5rem;
+   margin: 0.5rem;
 }
 .repo {
    text-decoration: none;
